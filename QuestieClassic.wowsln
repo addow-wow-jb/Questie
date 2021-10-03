@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# WowAddOnStudio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E6E1D386-69D8-4755-9E61-0950293915FC}") = "Questie", "Questie\Questie.wowproj", "{926ADB27-D8C8-44DC-A536-6C012830D336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{926ADB27-D8C8-44DC-A536-6C012830D336}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{926ADB27-D8C8-44DC-A536-6C012830D336}.Default|Any CPU.Build.0 = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
